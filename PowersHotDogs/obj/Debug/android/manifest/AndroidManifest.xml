@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="PowersHotDogs.PowersHotDogs" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.CALL_PHONE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="PowersHotDogs" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="About Ray's Hot Dogs!" android:name="md545f64f3a76cea2b6914b92e662b6b3ff.AboutActivity" />
+    <activity android:label="Hot dog detail" android:name="md545f64f3a76cea2b6914b92e662b6b3ff.HotDogDetailActivity" />
+    <activity android:label="HotDogMenuActivity" android:name="md545f64f3a76cea2b6914b92e662b6b3ff.HotDogMenuActivity" />
+    <activity android:icon="@drawable/smallicon" android:label="Powers' Hot Dogs" android:name="md545f64f3a76cea2b6914b92e662b6b3ff.MenuActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:icon="@drawable/smallicon" android:label="Take a picture with Powers" android:name="md545f64f3a76cea2b6914b92e662b6b3ff.TakePictureActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="PowersHotDogs.PowersHotDogs.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.PowersHotDogs.PowersHotDogs" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>
