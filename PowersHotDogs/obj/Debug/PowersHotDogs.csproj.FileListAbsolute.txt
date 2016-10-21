@@ -1,3 +1,4 @@
+C:\Users\pwartman\Documents\Visual Studio 2015\Projects\PowersHotDogs\PowersHotDogs\bin\Debug\PowersHotDogs.dll.config
 C:\Users\pwartman\Documents\Visual Studio 2015\Projects\PowersHotDogs\PowersHotDogs\bin\Debug\PowersHotDogs.dll
 C:\Users\pwartman\Documents\Visual Studio 2015\Projects\PowersHotDogs\PowersHotDogs\bin\Debug\PowersHotDogs.pdb
 C:\Users\pwartman\Documents\Visual Studio 2015\Projects\PowersHotDogs\PowersHotDogs\bin\Debug\PowersHotDogs.PowersHotDogs.apk

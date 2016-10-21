@@ -3,6 +3,7 @@
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="16" />
   <uses-permission android:name="android.permission.CALL_PHONE" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
   <uses-permission android:name="android.permission.INTERNET" />
   <application android:label="PowersHotDogs" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
     <activity android:label="About Ray's Hot Dogs!" android:name="md545f64f3a76cea2b6914b92e662b6b3ff.AboutActivity" />

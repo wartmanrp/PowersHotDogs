@@ -2,7 +2,6 @@ C:\Users\pwartman\Documents\Visual Studio 2015\Projects\PowersHotDogs\PowersHotD
 C:\Users\pwartman\Documents\Visual Studio 2015\Projects\PowersHotDogs\PowersHotDogs.core\bin\Debug\PowersHotDogs.core.pdb
 C:\Users\pwartman\Documents\Visual Studio 2015\Projects\PowersHotDogs\PowersHotDogs.core\obj\Debug\PowersHotDogs.core.dll
 C:\Users\pwartman\Documents\Visual Studio 2015\Projects\PowersHotDogs\PowersHotDogs.core\obj\Debug\PowersHotDogs.core.pdb
-C:\Users\pwartman\Documents\Visual Studio 2015\Projects\PowersHotDogs\PowersHotDogs.core\obj\Debug\PowersHotDogs.core.csprojResolveAssemblyReference.cache
 C:\Users\pwartman\Documents\Visual Studio 2015\Projects\PowersHotDogs\PowersHotDogs.core\obj\Debug\PowersHotDogs.core.dll.mdb
 C:\Users\pwartman\Documents\Visual Studio 2015\Projects\PowersHotDogs\PowersHotDogs.core\bin\Debug\PowersHotDogs.core.dll.mdb
 C:\Users\pwartman\Documents\Visual Studio 2015\Projects\PowersHotDogs\PowersHotDogs.core\obj\Debug\PowersHotDogs.core.dll.mdb

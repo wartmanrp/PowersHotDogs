@@ -173,22 +173,25 @@ namespace PowersHotDogs
 			public const int HotDogRowView = 2130903044;
 			
 			// aapt resource value: 0x7f030005
-			public const int Main = 2130903045;
+			public const int layout1 = 2130903045;
 			
 			// aapt resource value: 0x7f030006
-			public const int MainMenu = 2130903046;
+			public const int Main = 2130903046;
 			
 			// aapt resource value: 0x7f030007
-			public const int MeatLoversFragment = 2130903047;
+			public const int MainMenu = 2130903047;
 			
 			// aapt resource value: 0x7f030008
-			public const int PowersMapView = 2130903048;
+			public const int MeatLoversFragment = 2130903048;
 			
 			// aapt resource value: 0x7f030009
-			public const int TakePictureView = 2130903049;
+			public const int PowersMapView = 2130903049;
 			
 			// aapt resource value: 0x7f03000a
-			public const int VeggieLoversFragment = 2130903050;
+			public const int TakePictureView = 2130903050;
+			
+			// aapt resource value: 0x7f03000b
+			public const int VeggieLoversFragment = 2130903051;
 			
 			static Layout()
 			{
