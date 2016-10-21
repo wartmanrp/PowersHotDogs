@@ -99,6 +99,9 @@ namespace PowersHotDogs
 			// aapt resource value: 0x7f050007
 			public const int descriptionTextView = 2131034119;
 			
+			// aapt resource value: 0x7f050014
+			public const int externalMapButton = 2131034132;
+			
 			// aapt resource value: 0x7f05000c
 			public const int fragmentContainer = 2131034124;
 			
@@ -126,8 +129,8 @@ namespace PowersHotDogs
 			// aapt resource value: 0x7f050001
 			public const int phoneNumberTextView = 2131034113;
 			
-			// aapt resource value: 0x7f050015
-			public const int powersPictureImageView = 2131034133;
+			// aapt resource value: 0x7f050016
+			public const int powersPictureImageView = 2131034134;
 			
 			// aapt resource value: 0x7f050008
 			public const int priceTextView = 2131034120;
@@ -138,8 +141,8 @@ namespace PowersHotDogs
 			// aapt resource value: 0x7f050011
 			public const int takePictureButton = 2131034129;
 			
-			// aapt resource value: 0x7f050014
-			public const int textView1 = 2131034132;
+			// aapt resource value: 0x7f050015
+			public const int textView1 = 2131034133;
 			
 			static Id()
 			{
@@ -179,10 +182,13 @@ namespace PowersHotDogs
 			public const int MeatLoversFragment = 2130903047;
 			
 			// aapt resource value: 0x7f030008
-			public const int TakePictureView = 2130903048;
+			public const int PowersMapView = 2130903048;
 			
 			// aapt resource value: 0x7f030009
-			public const int VeggieLoversFragment = 2130903049;
+			public const int TakePictureView = 2130903049;
+			
+			// aapt resource value: 0x7f03000a
+			public const int VeggieLoversFragment = 2130903050;
 			
 			static Layout()
 			{

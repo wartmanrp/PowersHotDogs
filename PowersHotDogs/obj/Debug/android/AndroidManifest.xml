@@ -4,7 +4,6 @@
   <uses-sdk android:minSdkVersion="16" />
   <uses-permission android:name="android.permission.CALL_PHONE" />
   <uses-permission android:name="android.permission.INTERNET" />
-  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="PowersHotDogs" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
     <activity android:label="About Ray's Hot Dogs!" android:name="md545f64f3a76cea2b6914b92e662b6b3ff.AboutActivity" />
     <activity android:label="Hot dog detail" android:name="md545f64f3a76cea2b6914b92e662b6b3ff.HotDogDetailActivity" />
@@ -15,6 +14,7 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:label="Visit Powers' store" android:name="md545f64f3a76cea2b6914b92e662b6b3ff.PowersMapActivity" />
     <activity android:icon="@drawable/smallicon" android:label="Take a picture with Powers" android:name="md545f64f3a76cea2b6914b92e662b6b3ff.TakePictureActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="PowersHotDogs.PowersHotDogs.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->

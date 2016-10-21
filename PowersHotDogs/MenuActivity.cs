@@ -45,6 +45,13 @@ namespace PowersHotDogs
          orderButton.Click += OrderButton_Click;
          aboutButton.Click += AboutButton_Click;
          takePictureButton.Click += TakePictureButton_Click;
+         mapButton.Click += MapButton_Click;
+      }
+
+      private void MapButton_Click(object sender, EventArgs e)
+      {
+         var intent = new Intent(this, typeof(PowersMapActivity));
+         StartActivity(intent);
       }
 
       private void TakePictureButton_Click(object sender, EventArgs e)

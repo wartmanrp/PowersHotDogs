@@ -19,17 +19,17 @@
         android:layout_height="wrap_content"
         android:id="@+id/cartButton" />
     <Button
-        android:text="Take a picture with Ray"
+        android:text="Take a picture with Powers"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/takePictureButton" />
     <Button
-        android:text="Go to Ray's store"
+        android:text="Go to Powers's store"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/mapButton" />
     <Button
-        android:text="About Ray's Hot Dogs"
+        android:text="About Powers's Hot Dogs"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/aboutButton" />
